@@ -1,0 +1,14 @@
+layout_spectrum: 0.2529538
+typography_spectrum: 0.8705692
+color:
+  saturation: 0.7502685
+  brandStrength: 0.945665
+  lightness: 0.33029
+  brandColors:
+    - '#FFFFFF'
+    - '#000000'
+    - '#C8A899'
+    - '#967482'
+    - '#6A5365'
+  rhythmicContrast: 0.9457573
+name: fcanas
