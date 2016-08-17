@@ -1,14 +1,26 @@
-layout_spectrum: 0.2529538
-typography_spectrum: 0.8705692
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 0.7502685
   brandStrength: 0.945665
-  lightness: 0.33029
+  rhythmicContrast: 0.9457573
   brandColors:
     - '#FFFFFF'
     - '#000000'
     - '#C8A899'
     - '#967482'
     - '#6A5365'
-  rhythmicContrast: 0.9457573
+  lightness: 0.33029
+typography_spectrum: 0.764232
+layout_spectrum: 0.2841031
 name: fcanas
